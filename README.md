@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=2000&color=F71111&center=true&vCenter=true&width=500&lines=IoT+%26+BackEnd+Developer+" alt="Typing SVG" /></a>
 </p>
-<br>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px><b> About me </b>
 

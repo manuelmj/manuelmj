@@ -5,6 +5,17 @@
 </p>
 <br>
 
+## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px><b> About me </b>
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+ 
+<br><br>
+I’m an electronic engineer ⚙️ with a passion for building efficient, well-thought-out, and maintainable systems. I enjoy programming solutions that connect the physical world 🌐 with digital systems, solving complex problems through clear logic and organized structures. I’m especially interested in backend design 🧠, system communication, and how information flows through an architecture. I’m also motivated by the challenge of optimizing processes, improving performance 📈, and working with structures that can scale without losing simplicity. I love continuous learning 📚, keeping a clear technical vision, and building solutions that not only work, but also bring real value 💡 to those who use them or integrate them into their own systems.
+<br>
+
+
+<br>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 

@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>I'm Manuel Manjarres  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=22&pause=2000&color=F71111&center=true&vCenter=true&width=500&lines=IoT+%26+BackEnd+Developer+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=40&duration=4000&pause=2000&color=F71111&center=true&vCenter=true&width=500&lines=IoT+%26+BackEnd+Developer+" alt="Typing SVG" /></a>
 </p>
 
 ## <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px><b> About me </b>

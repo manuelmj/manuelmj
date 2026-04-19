@@ -22,9 +22,7 @@
 ## Profile
 
 I am an electronic engineer passionate about designing software that bridges the physical world with digital infrastructure. My work is centered on backend systems, service communication, and architectures that remain simple, efficient, and scalable as they grow.
-
-I enjoy solving technical problems with clear logic, structured thinking, and a practical engineering mindset. Whether the challenge involves connected devices, distributed services, or data flow across systems, I aim to build solutions that are reliable, maintainable, and useful in real environments.
-
+ 
 ## What I Work On
 
 - Backend architecture for connected products and services
@@ -59,12 +57,7 @@ I enjoy solving technical problems with clear logic, structured thinking, and a 
 ![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=34D399)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-0F172A?style=for-the-badge&logo=rabbitmq&logoColor=F97316)
 
-## Engineering Approach
-
-- Build solutions that are easy to understand and easy to maintain
-- Prefer robust system design over unnecessary complexity
-- Optimize for reliability, communication, and operational clarity
-- Keep learning through hands-on work and real technical challenges
+ 
 
 ## Connect
 
